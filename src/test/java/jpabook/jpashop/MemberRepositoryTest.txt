@@ -1,3 +1,5 @@
+기존에 작성되어서 에러뜨는데 지우긴 아까워서 그냥 텍스트파일로 남겨둠
+
 package jpabook.jpashop;
 
 import org.assertj.core.api.Assertions;
